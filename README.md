@@ -8,5 +8,5 @@ casual Lightning users to operate in a
 watchtower-free manner without stranding any
 Lightning channel capacity.
 
-See hierarchicalchannels11.pdf
+See hierarchicalchannels12.pdf
 
